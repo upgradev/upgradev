@@ -6,8 +6,9 @@ Here are some ideas to get you started:
 ### Olá, me chamo Cleison França 👋
 
 - 🔭 Estou atualmente trabalhando como FullStack com as tecnologias Spring Boot, Angular, React Native
-- 🌱 Estou estudando para aprender mais sobre as tecnologias Angular, React Native e Spring Boot, e estudando novas techs como Python, Reactjs 
-- 😄 Pronouns: ele/dele
+- 🔭 I am currently working as a FullStack with Spring Boot, Angular, React Native technologies
+- 🌱 Estou estudando para aprender mais sobre as tecnologias Angular, React Native e Spring Boot, e estudando novas techs como Python e ReactJs 
+- 🌱 I'm studying to learn more about Angular, React Native and Spring Boot, and studying new techs like Python and ReactJs
 
 <div>
   <a href="https://github.com/upgradev">
