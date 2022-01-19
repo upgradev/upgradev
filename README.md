@@ -10,11 +10,6 @@ Here are some ideas to get you started:
 - 🌱 Estou estudando para aprender mais sobre as tecnologias Angular, React Native e Spring Boot, e estudando novas techs como Python e ReactJs 
 - 🌱 I'm studying to learn more about Angular, React Native and Spring Boot, and studying new techs like Python and ReactJs
 
-<div>
-  <a href="https://github.com/upgradev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=upgradev&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=upgradev&layout=compact&langs_count=7&theme=default"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="upgrade-Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="upgrade-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
