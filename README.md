@@ -5,21 +5,22 @@ Here are some ideas to get you started:
 -->
 ### Olá, me chamo Cleison França Amorim (upgrade) 👋
 
-- 🔭 Estou atualmente trabalhando como FullStack com as tecnologias Spring Boot, Angular, React Native
-- 🔭 I am currently working as a FullStack with Spring Boot, Angular, React Native technologies
-- 🌱 Estou estudando para aprender mais sobre as tecnologias Angular, React Native e Spring Boot, e estudando novas techs como Python e ReactJs 
-- 🌱 I'm studying to learn more about Angular, React Native and Spring Boot, and studying new techs like Python and ReactJs
+- 🔭 Estou atualmente trabalhando como FullStack com as tecnologias Spring Boot e Angular
+- 🔭 I am currently working as a FullStack with Spring Boot and Angular technologies
+- 🌱 Estou estudando para aprender mais sobre as tecnologias Angular e Spring Boot, e estudando novas techs como Dart, Flutter e ReactJs 
+- 🌱 I'm studying to learn more about Angular and Spring Boot, and studying new techs like Dart, Flutter and ReactJs
 
 <div style="display: inline_block"><br>
   <img align="center" alt="upgrade-Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="upgrade-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="upgrade-Spring" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="upgrade-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="upgrade-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="upgrade-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="upgrade-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="upgrade-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <img align="center" alt="upgrade-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="upgrade-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="upgrade-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="upgrade-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="upgrade-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  
+  
   
 </div>
   
