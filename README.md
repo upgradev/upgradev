@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 Estou atualmente trabalhando como FullStack com as tecnologias Spring Boot e Angular
 - 🔭 I am currently working as a FullStack with Spring Boot and Angular technologies
 - 🌱 Estou estudando para aprender mais sobre as tecnologias Angular e Spring Boot, e estudando novas techs como NodeJs e ReactJs 
-- 🌱 I'm studying to learn more about Angular and Spring Boot, and studying new techs like Dart, Flutter, NodeJs and ReactJs
+- 🌱 I'm studying to learn more about Angular and Spring Boot, and studying new techs like NodeJs and ReactJs
 
 <div style="display: inline_block"><br>
   <img align="center" alt="upgrade-Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
