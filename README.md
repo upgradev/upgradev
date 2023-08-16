@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 Estou atualmente trabalhando como FullStack com as tecnologias Spring Boot e Angular
 - 🔭 I am currently working as a FullStack with Spring Boot and Angular technologies
-- 🌱 Estou estudando para aprender mais sobre as tecnologias Angular e Spring Boot, e estudando novas techs como Dart, Flutter, NodeJs e ReactJs 
+- 🌱 Estou estudando para aprender mais sobre as tecnologias Angular e Spring Boot, e estudando novas techs como NodeJs e ReactJs 
 - 🌱 I'm studying to learn more about Angular and Spring Boot, and studying new techs like Dart, Flutter, NodeJs and ReactJs
 
 <div style="display: inline_block"><br>
@@ -15,9 +15,10 @@ Here are some ideas to get you started:
   <img align="center" alt="upgrade-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="upgrade-Spring" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="upgrade-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="upgrade-dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="upgrade-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="upgrade-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+<img align="center" alt="upgrade-React" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+
+ 
   
   
   
